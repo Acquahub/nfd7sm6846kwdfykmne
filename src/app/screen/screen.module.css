@@ -1,0 +1,24 @@
+.Screen{
+    
+background: linear-gradient(180deg, #005aa7 0%, #fffde4 100%) !important;
+}
+.layer-2-8d3966c183194d0e9b251de2d3511cfa{
+    
+justify-content: center !important;
+align-items: center !important;
+
+box-shadow: 0px 0px 0px #FFFFFF !important;
+background-color: #FFFFFF !important;
+height: 100px !important;min-height: 100px !important;
+align-self: stretch !important;width: unset !important;min-width: unset !important;{position}
+}
+.text-2-a0a1c5cd008048b2a8d177fb5809833a{
+     
+
+font-size: 50pt !important;
+font-weight: bold !important;
+
+color: #000000 !important;
+height: fit-content !important;min-height:  unset !important;
+width: fit-content !important;min-width:  unset !important;
+}
